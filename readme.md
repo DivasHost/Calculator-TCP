@@ -7,7 +7,7 @@ The TCP Calculator is a client–server based scientific calculator designed to 
 
 By using a server–client architecture, the calculator offloads heavy computations to the server, ensuring accurate results and efficient performance for users on the client side.
 
-Features :  
+Features :
 
 1. Compute key TCP parameters (window size, RTT, throughput, bandwidth-delay product).
 
@@ -17,8 +17,7 @@ Features :
 
 4. Lightweight, accurate, and easy to use.
 
-
-Use Cases : 
+Use Cases :
 
 1. Networking students and engineers testing TCP concepts.
 
@@ -26,10 +25,10 @@ Use Cases :
 
 3. Students and professionals requiring reliable scientific calculations.
 
-How It Works : 
+How It Works :
 
 1. The client sends a calculation request (e.g., TCP formula or quadratic input).
 
-2.The server processes the request and computes the result.
+2. The server processes the request and computes the result.
 
 3. The result is returned to the client instantly.
