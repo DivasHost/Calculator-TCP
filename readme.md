@@ -1,4 +1,4 @@
-# Explore out Advance TCP calculator
+# TCP Calculator – A Client–Server Scientific Calculator for Networking and Math
 
 TCP Calculator
 Overview
